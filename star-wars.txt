@@ -5,3 +5,9 @@ YEAR:		1977
 DIRECTOR:	George Lucas
 GENRE:		Epic Space-Opera
 MAIN ACTORS:	Mark Hamill, Harrison Ford, Carrie Fisher
+
+TITLE:		Blazing Saddles
+YEAR:		1974
+DIRECTOR:	Mel Brooks
+GENRE:		Satirical Western Black Comedy
+MAIN ACTORS:	Cleavon Little, Gene Wilder, Harvey Korman
