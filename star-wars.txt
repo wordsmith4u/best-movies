@@ -1,0 +1,7 @@
+Info Listing for "Star Wars"
+
+TITLE:		Star Wars
+YEAR:		1977
+DIRECTOR:	George Lucas
+GENRE:		Epic Space-Opera
+MAIN ACTORS:	Mark Hamill, Harrison Ford, Carrie Fisher
